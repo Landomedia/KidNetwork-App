@@ -1,2 +1,0 @@
-# KidNetwork-App
-lit
